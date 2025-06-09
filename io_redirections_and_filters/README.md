@@ -1,0 +1,1 @@
+project on the input and output redirection and the special characters
