@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "Decimal %d is Hexadecimal %x\n" $DECIMAL
